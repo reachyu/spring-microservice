@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="726f1ef3-31b8-45eb-a9f6-d0a62d347e22" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="C:\Go" />
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:/apache-maven-3.6.2" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1deu2zMAhoSkeHGXKY2qGNqq6mu" />
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.45443925" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.reachyu.springcloud.controller" />
+      <recent name="com.reachyu.springcloud.dao" />
+      <recent name="com.reachyu.springcloud.service" />
+      <recent name="com.reachyu.springcloud.service.impl" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ConsumerApplication">
+    <configuration name="ConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="microservice-consumer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.reachyu.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.reachyu.springcloud.ConsumerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProviderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="microservice-provider" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.reachyu.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.reachyu.springcloud.ProviderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ConsumerApplication" />
+        <item itemvalue="Spring Boot.ProviderApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="726f1ef3-31b8-45eb-a9f6-d0a62d347e22" name="Default Changelist" comment="" />
+      <created>1592797676525</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592797676525</updated>
+      <workItem from="1592797679326" duration="605000" />
+      <workItem from="1592807197575" duration="8317000" />
+      <workItem from="1592824935567" duration="79000" />
+      <workItem from="1592826019517" duration="1436000" />
+      <workItem from="1592876709892" duration="4493000" />
+      <workItem from="1592882150624" duration="65000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
