@@ -12,6 +12,7 @@
         <module>microservice-provider</module>
         <module>microservice-com</module>
         <module>microservice-consumer</module>
+        <module>microservice-eureka1</module>
     </modules>
 
     <properties>

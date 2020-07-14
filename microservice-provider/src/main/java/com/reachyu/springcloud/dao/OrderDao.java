@@ -5,6 +5,9 @@ import org.apache.ibatis.annotations.Mapper;
 
 import java.util.List;
 
+/**
+ * @author reachyu
+ */
 @Mapper
 public interface OrderDao {
     public boolean addOrder(Order order);
