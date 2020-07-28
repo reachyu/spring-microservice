@@ -31,8 +31,8 @@ public class OrderServiceImpl implements OrderService {
     }
 
     @Override
-    public List<Order> getOrders() {
-        List<Order> orders = orderDao.getOrders();
+    public List<Order> listOrder() {
+        List<Order> orders = orderDao.listOrder();
         return orders;
     }
 }

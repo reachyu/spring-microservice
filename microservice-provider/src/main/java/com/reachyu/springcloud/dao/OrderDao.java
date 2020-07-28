@@ -10,9 +10,9 @@ import java.util.List;
  */
 @Mapper
 public interface OrderDao {
-    public boolean addOrder(Order order);
+    boolean addOrder(Order order);
 
-    public Order getOrder(String id);
+    Order getOrder(String id);
 
-    public List<Order> getOrders();
+    List<Order> listOrder();
 }

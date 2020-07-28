@@ -6,7 +6,7 @@
         select * from tb_order where orderId=#{id}
     </select>
 
-    <select id="getOrders" resultType="Order">
+    <select id="listOrder" resultType="Order">
     	select * from tb_order
     </select>
 

@@ -13,5 +13,5 @@ public interface OrderService {
 
     public Order getOrder(String id);
 
-    public List<Order> getOrders();
+    public List<Order> listOrder();
 }

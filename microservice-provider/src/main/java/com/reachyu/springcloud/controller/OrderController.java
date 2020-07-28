@@ -30,7 +30,7 @@ public class OrderController {
 
     @RequestMapping(value="/order/list", method=RequestMethod.GET)
     public List<Order> getOrders(){
-        List<Order> orders = service.getOrders();
+        List<Order> orders = service.listOrder();
         return orders;
     }
 }
