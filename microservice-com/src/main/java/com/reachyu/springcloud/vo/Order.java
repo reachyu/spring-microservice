@@ -2,6 +2,9 @@ package com.reachyu.springcloud.vo;
 
 import java.util.Date;
 
+/**
+ * @author yuhongbo
+ */
 public class Order {
 
     private String orderId;
@@ -13,6 +16,7 @@ public class Order {
     private float  payAmount;
     /** 1:待支付,2:待发货,3:运输中,4:已签收,5:已支付*/
     private int orderStatus;
+    private String orderDesc;
 
     public String getOrderId() {
         return orderId;
@@ -68,5 +72,13 @@ public class Order {
 
     public void setOrderStatus(int orderStatus) {
         this.orderStatus = orderStatus;
+    }
+
+    public String getOrderDesc() {
+        return orderDesc;
+    }
+
+    public void setOrderDesc(String orderDesc) {
+        this.orderDesc = orderDesc;
     }
 }
